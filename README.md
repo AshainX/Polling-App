@@ -1,4 +1,4 @@
-# Django-Poll-App
+# Polling Application using Django 
 
 Django poll app is a full featured polling app. Only admin can add poll, edit poll, delete poll. 
 
