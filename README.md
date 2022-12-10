@@ -10,7 +10,7 @@ Django poll app is a full featured polling app. Only admin can add poll, edit po
 
 <h2>Installing</h2>
 <pre>open terminal and type</pre>
-<code>git clone https://github.com/devmahmud/Django-poll-app.git</code><br><br>
+<code>git clone https://github.com/AshainX/Polling-App.git</code><br><br>
 
 <h4>or simply download using the url below</h4>
 <code>https://github.com/devmahmud/Django-poll-app.git</code><br>
