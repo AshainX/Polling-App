@@ -13,7 +13,7 @@ Django poll app is a full featured polling app. Only admin can add poll, edit po
 <code>git clone https://github.com/AshainX/Polling-App.git</code><br><br>
 
 <h4>or simply download using the url below</h4>
-<code>https://github.com/devmahmud/Django-poll-app.git</code><br>
+<code>https://github.com/AshainX/Polling-App.git</code><br>
 
 <h2>To migrate the database open terminal in project directory and type</h2>
 <code>python manage.py makemigrations</code><br>
